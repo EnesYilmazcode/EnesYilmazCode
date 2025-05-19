@@ -6,13 +6,13 @@
 
 ## 💻 About Me
 
-I'm a computer science and engineering student at Ohio State University, on the side I refurbish and flip laptops on eBay. I'm passionate about software development, AI, and data analysis. I'm constantly exploring new technologies and applying my skills to solve real-world problems. With experience across multiple internships at companies like Rockwell Automation and research institutions, I've developed a strong foundation in both theoretical concepts and practical applications.
+I'm a computer science and engineering student at Ohio State University. On the side, I refurbish and flip laptops on eBay. I'm a Section Leader at Stanford Code In Place, I teach a large cohort of students about Python fundamentals. I'm passionate about software development, AI, and data analysis. I'm constantly exploring new technologies and applying my skills to solve real-world problems. With experience across multiple internships at companies like Rockwell Automation and research institutions, I've developed a strong foundation in both theoretical concepts and practical applications.
 
 ## 🔭 Current Focus
 
-- 🎓 Pursuing my Bachelor's in Computer Science and Engineering (GPA: 3.93)
+- 🎓 Pursuing my Bachelor's in Computer Science and Engineering (GPA: 3.96)
 - 🖥️ Currently researching remote control systems for skid steers
-- 🤖 Exploring Impactful implementations of AI
+- 🤖 Cool AI projects
 
 ## 🛠️ Tech Stack
 
