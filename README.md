@@ -16,15 +16,6 @@ I like to keep things hands-on: whether it’s coding AI agents, launching Chrom
 
 ---
 
-## 🔭 What I’m Working On
-
-- Wrapping up my second internship at **Rockwell Automation**  
-- Building **Firewatch**, a wildfire prediction platform using satellite and weather data  
-- Exploring AI research and agent-based systems  
-- Continuing to grow my portfolio with projects that mix software, AI, and data  
-
----
-
 ## 🛠️ Tech I Use
 
 ### Languages
