@@ -10,7 +10,7 @@
 
 I’m a Computer Science and Engineering student at **Ohio State University** (GPA 3.96). I’ve worked on research, internships, and side projects that all tie back to one goal: building tech that makes an impact.  
 
-At **Rockwell Automation**, I built AI agents for pipeline analysis, cutting log review time by 83%. At **Stanford’s Code in Place**, I taught Python to students from all over the world. I’ve also led projects in AI, automation, and data analysis — from creating a skin analysis app with 94% accuracy to presenting transportation safety research to the Department of Transportation.  
+At **Rockwell Automation**, I built AI agents for pipeline analysis, cutting log review time by 83%. At **Stanford’s Code in Place**, I taught Python to students from all over the world. I’ve also led projects in AI, automation, and data analysis.  
 
 I like to keep things hands-on: whether it’s coding AI agents, launching Chrome extensions, or building apps from scratch, I enjoy taking ideas from concept to something people can actually use.  
 
