@@ -46,7 +46,7 @@ I like to keep things hands-on: whether it’s coding AI agents, launching Chrom
 ## 🌟 Projects
 
  
-- **[NYC Bus Safety Analysis](https://enes.web.app/NSDC%20Research%20Poster.pdf)** – Analyzed 2.15M accidents and 3.3K bus stops, presented findings to DOT and FHWA  
+- **[NYC Bus Safety Analysis](https://enes.web.app/nsdc_poster.pdf)** – Analyzed 2.15M accidents and 3.3K bus stops, presented findings to DOT and FHWA  
 - **[ProScan](https://proscanbot.web.app/)** – Chrome extension that scrapes Amazon data, hit 140+ users and ranked top 5 in its category
 - **[NeetcodeAI](https://github.com/EnesYilmazcode/neetcodeai)** – Find your space and time complexity without the paywall ;) 
 
