@@ -38,7 +38,7 @@ I like to keep things hands-on: whether it’s coding AI agents, launching Chrom
 
 ## 📚 Education
 
-- **The Ohio State University** – B.S. in Computer Science and Engineering (Expected May 2027)  
+- **The Ohio State University** – B.S. in Computer Science and Engineering 
 - **CodePath** – Technical Interview Prep (Spring 2025)  
 
 ---
