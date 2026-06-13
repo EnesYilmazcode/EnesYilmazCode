@@ -1,6 +1,6 @@
 I'm a CS student at The Ohio State University. 
 
-I have previous internship experience in Agentic AI.
+Currently doing agent evals at Apple
 
 On the side, I love car spotting and attending car shows.
 
