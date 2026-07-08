@@ -1,6 +1,6 @@
 I'm a CS student at The Ohio State University. 
 
-Currently doing agent evals at Apple
+Currently interning @ Apple
 
 On the side, I love car spotting and attending car shows.
 
