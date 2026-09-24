@@ -1,6 +1,6 @@
 I'm a CS student at The Ohio State University. 
 
-Currently interning @ Apple
+Prev Evals @ Apple
 
 On the side, I love car spotting and repairing laptops.
 
